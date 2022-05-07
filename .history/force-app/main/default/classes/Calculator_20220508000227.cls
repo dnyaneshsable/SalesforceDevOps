@@ -1,7 +1,7 @@
 /**************************************************
  * Name: Calculator
  * Author: Dnyanesh
- * Date 06-05-2022
+ * Date 6-5-2022
  **************************************************/
 public with sharing class Calculator {
     public Calculator() {
